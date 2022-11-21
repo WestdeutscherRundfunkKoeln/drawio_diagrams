@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T09:39:15.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3io2_9tvrjrnjwVc4XdL" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T09:40:13.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Qk82nskXuCBxvuYjUvUf" version="20.5.3" type="github">
   <diagram id="SS3UAEaWAnvHdGek29RU" name="Seite-1">
     <mxGraphModel dx="1483" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -195,6 +195,12 @@
             <mxPoint x="690" y="180" as="sourcePoint" />
             <mxPoint x="740" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LqhNkFOkrs1mk6dBLkdp-68" value="Push Workflow WDRaktuell" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="165" y="5" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhNkFOkrs1mk6dBLkdp-69" value="Push Workflow Wellenapps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="783" y="5" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

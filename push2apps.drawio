@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T09:37:42.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AJ_9VudfRJaQ8jGXKpE1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T09:38:40.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PANRryMh0ojqtr-GTdVe" version="20.5.3" type="github">
   <diagram id="SS3UAEaWAnvHdGek29RU" name="Seite-1">
     <mxGraphModel dx="1483" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -183,6 +183,12 @@
             <mxPoint x="660" y="420" as="sourcePoint" />
             <mxPoint x="710" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LqhNkFOkrs1mk6dBLkdp-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#007FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry y="790" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhNkFOkrs1mk6dBLkdp-66" value="Eigententwicklung WDR, Ansprechpartner E. Degen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="797" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
